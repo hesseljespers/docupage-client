@@ -15,10 +15,10 @@
     "php": ">=8.2"
   },
   "autoload": {
-    "psr-4": { "Ivogo\\Client\\Docupages\\": "" },
+    "psr-4": { "Hesseljespers\\Client\\Docupages\\": "" },
     "exclude-from-classmap": [
       "/Tests/"
     ]
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
