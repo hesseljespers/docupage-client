@@ -1,0 +1,24 @@
+{
+  "name": "ivogo/docupage_client",
+  "type": "library",
+  "description": "Client to connnect to docupages.nl",
+  "keywords": [],
+  "homepage": "https://docupages.nl",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hessel Jespers",
+      "email": "h.jespers@ivogo.nl"
+    },
+  ],
+  "require": {
+    "php": ">=8.2"
+  },
+  "autoload": {
+    "psr-4": { "Ivogo\\Client\\Docupages\\": "" },
+    "exclude-from-classmap": [
+      "/Tests/"
+    ]
+  },
+  "minimum-stability": "dev"
+}
