@@ -1,7 +1,7 @@
 {
-  "name": "ivogo/docupage_client",
+  "name": "hesseljespers/docupage-client",
   "type": "library",
-  "description": "Client to connnect to docupages.nl",
+  "description": "Client to connect to docupages.nl",
   "keywords": [],
   "homepage": "https://docupages.nl",
   "license": "MIT",
@@ -9,7 +9,7 @@
     {
       "name": "Hessel Jespers",
       "email": "h.jespers@ivogo.nl"
-    },
+    }
   ],
   "require": {
     "php": ">=8.2"
